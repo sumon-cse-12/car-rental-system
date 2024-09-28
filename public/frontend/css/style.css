@@ -1,0 +1,69 @@
+
+.contact-us-title {
+    text-align: center;
+    font-weight: 600;
+    font-size: 30px;
+    color: #333;
+}
+.contact-us-des {
+    text-align: center;
+    margin: 10px 0px;
+    font-size: 20px;
+}
+.about-us-title {
+    text-align: center;
+    font-weight: 600;
+    font-size: 30px;
+    border-bottom: 2px solid #eee;
+}
+.about-us-des {
+    text-align: center;
+    margin: 10px 0px;
+    font-size: 20px;
+}
+.product-img {
+    width: 100%;
+    object-fit: cover;
+  }
+  .thumbnail-img {
+    width: 100%;
+    cursor: pointer;
+  }
+  .breadcrumb {
+    background-color: transparent;
+  }
+  .book-car-btn {
+    background-color: #007bff;
+    color: white;
+    font-weight: bold;
+  }
+  .related-products .card {
+    border: none;
+  }
+  .related-products .card img {
+    object-fit: cover;
+    height: 200px;
+  }
+  .product-rating {
+    color: #ffc107;
+  }
+  .rent-price {
+    font-size:1rem;
+    color: #28a745;
+  }
+  .price-discount {
+    text-decoration: line-through;
+    color: #dc3545;
+  }
+  .app-logo {
+    width: 120px;
+    height: 90px;
+}
+a.nav-link.text-white.nav-link-text {
+    font-size: 20px;
+    padding: 0px 20px;
+}
+.f-about-us-title
+{
+    font-size: 20px;
+}
